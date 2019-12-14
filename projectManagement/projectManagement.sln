@@ -3,26 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "projectManagement", "..\..\..\SELabProject\Project-Mangement-using-.Net\WebSites\projectManagement\", "{ED8A61D4-FF15-4368-8922-CAEB6653CDC7}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "projectManagement(1)", "..\WebSites\projectManagement\", "{51DFB469-4BC1-41AB-8AE2-041923F8BCE3}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_53033"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\SELabProject\Project-Mangement-using-.Net\WebSites\projectManagement\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53033\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_42143"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebSites\projectManagement\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42143\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_53033"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\SELabProject\Project-Mangement-using-.Net\WebSites\projectManagement\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53033\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_42143"
+		Release.AspNetCompiler.PhysicalPath = "..\WebSites\projectManagement\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42143\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "53033"
-		SlnRelativePath = "..\..\..\SELabProject\Project-Mangement-using-.Net\WebSites\projectManagement\"
-		DefaultWebSiteLanguage = "Visual C#"
+		VWDPort = "42143"
 	EndProjectSection
 EndProject
 Global
@@ -30,8 +28,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ED8A61D4-FF15-4368-8922-CAEB6653CDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED8A61D4-FF15-4368-8922-CAEB6653CDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DFB469-4BC1-41AB-8AE2-041923F8BCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DFB469-4BC1-41AB-8AE2-041923F8BCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
