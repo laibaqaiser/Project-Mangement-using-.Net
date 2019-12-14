@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "projectManagement", "..\..\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53033"
+		SlnRelativePath = "..\..\..\SELabProject\Project-Mangement-using-.Net\WebSites\projectManagement\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
